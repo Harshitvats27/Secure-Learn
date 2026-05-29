@@ -52,7 +52,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCN0SFwotk1vZB-t8GlAjcOwqbU92uhbHs',
-    appId: '1:644739020642:android:0d101fa0348d629d5f9e3b',
+    appId: '1:644739020642:android:1d93b77c8355d7ed5f9e3b',
     messagingSenderId: '644739020642',
     projectId: 'cyber-education-40597',
     storageBucket: 'cyber-education-40597.firebasestorage.app',
@@ -64,6 +64,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '644739020642',
     projectId: 'cyber-education-40597',
     storageBucket: 'cyber-education-40597.firebasestorage.app',
+    androidClientId: '644739020642-o2v2cc4i1e76a0a87phn3i7ipi1c2jb8.apps.googleusercontent.com',
+    iosClientId: '644739020642-b87e79e0ererp29k0cg9dpk9o538difv.apps.googleusercontent.com',
     iosBundleId: 'com.example.cyberEducation',
   );
 
@@ -73,6 +75,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '644739020642',
     projectId: 'cyber-education-40597',
     storageBucket: 'cyber-education-40597.firebasestorage.app',
+    androidClientId: '644739020642-o2v2cc4i1e76a0a87phn3i7ipi1c2jb8.apps.googleusercontent.com',
+    iosClientId: '644739020642-b87e79e0ererp29k0cg9dpk9o538difv.apps.googleusercontent.com',
     iosBundleId: 'com.example.cyberEducation',
   );
 
@@ -85,4 +89,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'cyber-education-40597.firebasestorage.app',
     measurementId: 'G-MDHY284WJP',
   );
+
 }

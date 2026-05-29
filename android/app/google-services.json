@@ -48,6 +48,42 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644739020642:android:1d93b77c8355d7ed5f9e3b",
+        "android_client_info": {
+          "package_name": "com.harshitvats.securelearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644739020642-fnm6aakugnj831j7v6efr7c1smnfkokt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN0SFwotk1vZB-t8GlAjcOwqbU92uhbHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644739020642-fnm6aakugnj831j7v6efr7c1smnfkokt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644739020642-b87e79e0ererp29k0cg9dpk9o538difv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cyberEducation"
+              }
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"

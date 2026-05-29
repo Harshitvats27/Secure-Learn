@@ -1,4 +1,4 @@
-package com.example.cyber_education
+package com.harshitvats.securelearn
 
 import io.flutter.embedding.android.FlutterActivity
 
