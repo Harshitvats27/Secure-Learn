@@ -80,18 +80,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 ![WhatsApp Image 2025-09-15 at 23 00 05_39cf8dba](https://github.com/user-attachments/assets/c3db83d0-038f-4eaf-8d16-b4133b3f8e5e)
 
 
-## Contact
-**Team Name**- Access Denied
 
-**Name**- 
-
-		Sakshi Mittal
-				
-		Jyotasana 
-				
-		Saumya Dwivedi
-				
-		Harshit Vats 
 
 
 **Repo link**- https://github.com/Harshitvats27/cyber_education
